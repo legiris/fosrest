@@ -1,0 +1,6 @@
+81e3ef,::1,GET,http://localhost/web/fosrest/web/app_dev.php/,1384876322,
+340af7,::1,GET,http://localhost/web/fosrest/web/app_dev.php/,1384876322,
+249dde,::1,GET,http://localhost/web/fosrest/web/app_dev.php/,1384876416,
+ef81f8,127.0.0.1,GET,http://localhost/web/fosrest/web/app_dev.php/_fragment?_path=_format%3Dhtml%26_locale%3Den%26_controller%3DAcmeBlogBundle%253AArticle%253AlatestArticles,1384876416,249dde
+f0762d,::1,GET,http://localhost/web/fosrest/web/app_dev.php/,1384876435,
+c11d23,127.0.0.1,GET,http://localhost/web/fosrest/web/app_dev.php/_fragment?_path=_format%3Dhtml%26_locale%3Den%26_controller%3DAcmeBlogBundle%253AArticle%253AlatestArticles,1384876435,f0762d
